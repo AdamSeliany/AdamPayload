@@ -1,5 +1,5 @@
-chmod +x cyberdoor
-cp -r cyberdoor /usr/local/sbin
+chmod +x AdamPayload
+cp -r AdamPayload /usr/local/sbin
 
 echo -e ' \e[1;34m
 
