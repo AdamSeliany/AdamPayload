@@ -397,7 +397,7 @@ elif [ "$a" == "$des" ]
 then
 
 echo -e "\e[0;31mThis tool is for educational purposes only. Any activity or activity related to the information contained herein is solely your responsibility. Misuse of the information contained herein can result in criminal charges against suspected persons Developers are not responsible for any damage caused by this script.\e[0m"
-
+echo -e "\e[0;31mهذه الأداة للأغراض التعليمية فقط. أي نشاط أو نشاط متعلق بالمعلومات الواردة هنا هو مسؤوليتك وحدك. يمكن أن يؤدي إساءة استخدام المعلومات الواردة هنا إلى توجيه اتهامات جنائية ضد الأشخاص المشتبه بهم. المطورون غير مسؤولين عن أي ضرر ناتج عن هذا البرنامج النصي\e[0m"
 
 read a
 elif [ "$a" == "$cctv" ]
