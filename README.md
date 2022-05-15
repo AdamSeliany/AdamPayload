@@ -38,13 +38,13 @@ How to find vulnerable webcams with the help of Shodan and Metasploit framework.
 
  (run in root account)
 
-     $ cd cyberdoor
+     $ cd AdamPayload
      
      $ chmod +x install.sh
 	
      $ ./install.sh
    
-     $ cyberdoor
+     $ AdamPayload
      
      
 > uninstaller
